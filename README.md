@@ -1,6 +1,6 @@
 
 # Financial Data Analysis and Investment Strategy Assistant  
-
+   - PLEASE DOWNLOAD THE CSV FILE AND PLACE IN YOUR GOOGLE DRIVE FOR IT TO WORK!!!!!!!!!!!!
 ## Overview  
 This project is an AI-driven solution for analyzing financial market data, predicting market trends, and providing actionable investment strategies. It incorporates machine learning models to classify market conditions and an AI chatbot powered by the [FINGU-AI/FinguAI-Chat-v1](https://huggingface.co/FINGU-AI/FinguAI-Chat-v1) to offer interactive financial advice. Designed as a Google Colab notebook, this project requires no installations—just click the link, and you're ready to explore.  
 
